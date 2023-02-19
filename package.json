@@ -1,0 +1,19 @@
+{
+  "name": "wltest",
+  "version": "0.0.1",
+  "description": "Wireless Logic Software Engineering Technical Test Submission",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamShady/wltest.git"
+  },
+  "author": "Jamshed Javed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamShady/wltest/issues"
+  },
+  "homepage": "https://github.com/JamShady/wltest#readme"
+}
