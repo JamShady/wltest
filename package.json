@@ -2,8 +2,8 @@
   "name": "wltest",
   "version": "0.0.1",
   "description": "Wireless Logic Software Engineering Technical Test Submission",
-  "engines" : {
-    "node" : ">=18.0.0"
+  "engines": {
+    "node": ">=18.0.0"
   },
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JamShady/wltest/issues"
   },
-  "homepage": "https://github.com/JamShady/wltest#readme"
+  "homepage": "https://github.com/JamShady/wltest#readme",
+  "dependencies": {
+    "jsdom": "^21.1.0"
+  }
 }
