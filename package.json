@@ -2,6 +2,9 @@
   "name": "wltest",
   "version": "0.0.1",
   "description": "Wireless Logic Software Engineering Technical Test Submission",
+  "engines" : {
+    "node" : ">=18.0.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
